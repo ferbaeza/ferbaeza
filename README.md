@@ -1,16 +1,16 @@
-## I'm *Fernando Baeza*
+## I'm _Fernando Baeza_
 
-
+![logo](./readme/fondo.jpg)
 
 ##### {
+
     "name": "Fernando",
     "surname": "Baeza",
     "email": "fbaezahurtado@gmail.com",
     "profile": "backend",
     "target": "senior",
+
 ##### }
-
-
 
 - 👋 Hi, I’m @ferbaeza
 - 👀 I’m interested in ...
