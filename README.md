@@ -2,6 +2,13 @@
 
 ![logo](./files/plane.jpg)
 
+```node
+const fer = data.data
+console.log(fer)
+```
+
+
+
 ##### {
 
     "name": "Fernando",
