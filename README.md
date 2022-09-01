@@ -1,6 +1,6 @@
 ## I'm _Fernando Baeza_
 
-![logo](./readme/fondo.jpg)
+![logo](./files/plane.jpg)
 
 ##### {
 
