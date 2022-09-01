@@ -2,22 +2,15 @@
 
 ![logo](./files/plane.jpg)
 
-```node
-const fer = data.data
-console.log(fer)
-```
-
-
-
-##### {
-
+```bash
+{
     "name": "Fernando",
     "surname": "Baeza",
     "email": "fbaezahurtado@gmail.com",
     "profile": "backend",
     "target": "senior",
-
-##### }
+ }
+```
 
 - 👋 Hi, I’m @ferbaeza
 - 👀 I’m interested in ...
