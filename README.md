@@ -1,6 +1,7 @@
+# _Developer_
 ## I'm _Fernando Baeza_
 
-![logo](./files/plane.jpg)
+
 
 ```Javascript
 
@@ -24,3 +25,10 @@ const target=()=>{
 ferbaeza/ferbaeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+![logo](./files/plane.jpg)
