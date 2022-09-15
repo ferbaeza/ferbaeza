@@ -2,14 +2,18 @@
 
 ![logo](./files/plane.jpg)
 
-```bash
-{
-    "name": "Fernando",
-    "surname": "Baeza",
-    "email": "fbaezahurtado@gmail.com",
-    "profile": "backend",
-    "target": "senior",
- }
+```Javascript
+const whoIam = 
+    {
+        name: "Fernando",
+        surname: "Baeza",
+        email: "fbaezahurtado@gmail.com",
+        profile: "backend",
+        target: "senior",
+        nacionality: "Spanish 🇪🇸",
+        tecnologies: ["Javascript","Python","NodeJS","HTML", "CSS", "MongoDB","SQL"]
+}
+    }
 ```
 
 - 👋 Hi, I’m @ferbaeza
