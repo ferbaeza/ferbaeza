@@ -3,6 +3,8 @@
 ![logo](./files/plane.jpg)
 
 ```Javascript
+
+const hello = "Hello 👋 Hi, I’m @ferbaeza"
 const whoIam = 
     {
         name: "Fernando",
@@ -13,10 +15,9 @@ const whoIam =
         nacionality: "Spanish 🇪🇸",
         tecnologies: ["Javascript","Python","NodeJS","HTML", "CSS", "MongoDB","SQL"]
 }
-    }
+const target=()=>{console.log("👀 I’m interested in ...")}
 ```
 
-- 👋 Hi, I’m @ferbaeza
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
