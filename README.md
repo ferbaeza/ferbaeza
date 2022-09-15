@@ -17,6 +17,14 @@ const whoIam =
 }
 const target=()=>{console.log("👀 I’m interested in ...")}
 ```
+```python
+
+class Senior:
+class Junior:
+class Developer:
+    junior=Junior()
+fernandoBaeza = Developer.junior()
+```
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
