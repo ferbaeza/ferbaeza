@@ -15,21 +15,10 @@ const whoIam =
         nacionality: "Spanish 🇪🇸",
         tecnologies: ["Javascript","Python","NodeJS","HTML", "CSS", "MongoDB","SQL"]
 }
-const target=()=>{console.log("👀 I’m interested in ...")}
+const target=()=>{
+    console.log("👀 I’m interested in become a Senior Developer ✨"
+    )}
 ```
-```python
-
-class Senior:
-class Junior:
-class Developer:
-    junior=Junior()
-fernandoBaeza = Developer.junior()
-```
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ferbaeza/ferbaeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
