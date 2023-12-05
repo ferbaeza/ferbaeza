@@ -16,9 +16,7 @@ public array $whoIam =
         nacionality: "Spanish 🇪🇸",
         tecnologies: ["php", "Laravel","Python","NodeJS","SQL"]
 ];
-return  fn()=>{
-    print_r("👀 I’m interested in become a Senior Developer ✨"
-    )};
+return  fn()=>print_r("👀 I’m interested in become a Senior Developer ✨");
 ```
 
 <!---
