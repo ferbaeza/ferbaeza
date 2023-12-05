@@ -8,15 +8,15 @@
 public string $hello = "Hello 👋 Hi, I’m @ferbaeza";
 public array $whoIam = 
     [
-        name: "Fernando",
-        surname: "Baeza",
-        email: "fbaezahurtado@gmail.com",
-        profile: "backend",
-        target: "senior",
-        nacionality: "Spanish 🇪🇸",
-        tecnologies: ["php", "Laravel","Python","NodeJS","SQL"]
+        name => "Fernando",
+        surname => "Baeza",
+        email => "fbaezahurtado@gmail.com",
+        profile => "backend",
+        target => "senior",
+        nacionality => "Spanish 🇪🇸",
+        tecnologies => ["php", "Laravel","Python","NodeJS","SQL"]
 ];
-return  fn()=>print_r("👀 I’m interested in become a Senior Developer ✨");
+return  fn() => print_r("👀 I’m interested in become a Senior Developer ✨");
 ```
 
 <!---
