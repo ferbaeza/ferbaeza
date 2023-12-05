@@ -3,22 +3,22 @@
 
 
 
-```Javascript
+```php
 
-const hello = "Hello 👋 Hi, I’m @ferbaeza"
-const whoIam = 
-    {
+public string $hello = "Hello 👋 Hi, I’m @ferbaeza";
+public array $whoIam = 
+    [
         name: "Fernando",
         surname: "Baeza",
         email: "fbaezahurtado@gmail.com",
         profile: "backend",
         target: "senior",
         nacionality: "Spanish 🇪🇸",
-        tecnologies: ["Javascript","Python","NodeJS","HTML", "CSS", "MongoDB","SQL"]
-}
-const target=()=>{
-    console.log("👀 I’m interested in become a Senior Developer ✨"
-    )}
+        tecnologies: ["php", "Laravel","Python","NodeJS","SQL"]
+];
+return  fn()=>{
+    print_r("👀 I’m interested in become a Senior Developer ✨"
+    )};
 ```
 
 <!---
